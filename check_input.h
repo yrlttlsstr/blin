@@ -2,6 +2,7 @@
 #define _CHECK_INPUT_H_
 
 //проверка корректности данных типа double
+// hhhhh
 double check_input_double(double& num);
 
 //проверка корректности данных типа int
