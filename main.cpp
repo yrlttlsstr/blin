@@ -15,8 +15,6 @@ int main(int argc, const char* argv[])
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	cout << "Hello world\n";
-
 	cout << "Программа считает выражение f(A^2)=x^3-10x^2+7x-12, где А-квадратная м-ца\n";
 
 	int size = 0;

@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//что....
+
 //создает м-цу
 double** create_mat(int size)
 {
